@@ -16,7 +16,7 @@
 
 ## PyTorch教程
 
-> 来自Gitub-22k项目[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+> 来自Github-22k项目[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 1. [liner_regression](PyTorch教程/liner_regression.ipynb)
 2. [liner_regression](PyTorch教程/logistic_regression.ipynb)
