@@ -21,3 +21,4 @@
 1. [liner_regression](PyTorch教程/liner_regression.ipynb)
 2. [logistic_regression](PyTorch教程/logistic_regression.ipynb)
 3. [forward_neural_network](PyTorch教程/feedforward_neural_network.ipynb)
+4. [convolutional_neural_network](PyTorch教程/convolutional_neural_network.ipynb)
